@@ -1,0 +1,9 @@
+C:\Users\Romain.Alexandre\source\repos\Splitting_Document\Splitting_Document\bin\Debug\Splitting_Document.exe.config
+C:\Users\Romain.Alexandre\source\repos\Splitting_Document\Splitting_Document\bin\Debug\Splitting_Document.exe
+C:\Users\Romain.Alexandre\source\repos\Splitting_Document\Splitting_Document\bin\Debug\Splitting_Document.pdb
+C:\Users\Romain.Alexandre\source\repos\Splitting_Document\Splitting_Document\bin\Debug\Tesseract.dll
+C:\Users\Romain.Alexandre\source\repos\Splitting_Document\Splitting_Document\obj\Debug\Splitting_Document.csproj.CoreCompileInputs.cache
+C:\Users\Romain.Alexandre\source\repos\Splitting_Document\Splitting_Document\obj\Debug\Splitting_Document.csproj.CopyComplete
+C:\Users\Romain.Alexandre\source\repos\Splitting_Document\Splitting_Document\obj\Debug\Splitting_Document.exe
+C:\Users\Romain.Alexandre\source\repos\Splitting_Document\Splitting_Document\obj\Debug\Splitting_Document.pdb
+C:\Users\Romain.Alexandre\source\repos\Splitting_Document\Splitting_Document\obj\Debug\Splitting_Document.csprojAssemblyReference.cache

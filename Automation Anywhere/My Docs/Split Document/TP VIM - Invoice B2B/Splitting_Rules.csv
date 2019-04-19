@@ -1,0 +1,18 @@
+Expressions_To_Find,Expressions_To_Exclude,Target_Folder
+Invoice n.|Date,,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\INV
+invoice number,,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\INV
+Invoice|Payment Terms,,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\INV
+Invoice|Terms of payment,,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\INV
+Final amount|IBAN,,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\INV
+FACTURE|TOTAL,,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\INV
+shipping instructions,,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\PL
+packing list,GDP condition,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\PL
+Seite|Sender,,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\PL
+BON DE LIVRAISON,,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\PL
+certificate of analysis|expiry date,Certificate of Compliance,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\COA
+CERTIFICATE OF ANALYSIS|Manufa|date,Responsible|Certificate of Compliance,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\COA
+CERTIFICATE OF ANALVSIS|Manufa|date,ResponsableCertificate of Compliance,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\COA
+CERTIFICATE|ANALYSIS|Manufa|date,Responsible|Certificate of Compliance,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\COA
+Analyse|manufac|date,Responsible|Certificate of Compliance,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\COA
+Date de fabrica|Batch Number|Certi,Responsible|Certificate of Compliance,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\COA
+Certi|ANALYSIS|Manufa|date,Responsible|Certificate of Compliance,C:\Users\Romain.Alexandre\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\Split Document\TP VIM - Invoice B2B\COA
